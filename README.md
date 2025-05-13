@@ -31,6 +31,7 @@ npm install
 npm run dev
 ```
 ## 📁 Project Structure
+```
 📦 haydenhunter-projects-github-io/
 ├── public/            # Static assets
 ├── src/               # Main source code
@@ -40,7 +41,7 @@ npm run dev
 ├── .gitignore
 ├── README.md
 └── package.json
-
+```
 ## 📫 Contact
 If you’d like to reach out for collaboration or opportunities, you can contact me directly through the form on the site or via:
 
